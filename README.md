@@ -47,10 +47,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
+![WebSockets](https://img.shields.io/badge/-WebSockets-000000?style=flat&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-0052CC?logo=swagger&logoColor=white&style=flat)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=flat)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat)
-![WebSockets](https://img.shields.io/badge/-WebSockets-000000?style=flat&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white&style=flat)
 
 
