@@ -78,6 +78,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 ![Putty](https://img.shields.io/badge/-PuTTY-FFCC00?style=flat&logoColor=black)
 ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white&style=flat)
+![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?logo=hubspot&logoColor=white&style=flat)
 ![Advanced Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
